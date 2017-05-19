@@ -5,6 +5,8 @@
 [![quality][quality]][quality-url]
 [![chat][chat]][chat-url]
 
+This is an adaptation of the uglifyjs-webpack-plugin that uses the uglify-js-es6 npm package instead of uglify-js. Original README follows:
+
 <div align="center">
   <!-- replace with accurate logo e.g from https://worldvectorlogo.com/ -->
   <a href="https://github.com/webpack/webpack">
