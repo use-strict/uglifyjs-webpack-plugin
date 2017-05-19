@@ -1,7 +1,7 @@
 {
-  "name": "uglifyjs-webpack-plugin",
+  "name": "uglifyes-webpack-plugin",
   "version": "0.4.3",
-  "description": "UglifyJS plugin for webpack",
+  "description": "UglifyES plugin for webpack",
   "main": "./dist",
   "scripts": {
     "build": "babel src -d dist",
@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/webpack-contrib/uglifyjs-webpack-plugin",
   "peerDependencies": {
-    "uglify-js": "^2.8.0",
+    "uglify-js-es6": "^2.8.9",
     "webpack": "^1.9 || ^2 || ^2.1.0-beta || ^2.2.0-rc"
   },
   "dependencies": {
@@ -66,7 +66,7 @@
     "git-prepush-hook": "^1.0.1",
     "jest": "^18.1.0",
     "sync-exec": "^0.6.2",
-    "uglify-js": "^2.8.18",
+    "uglify-js-es6": "^2.8.9",
     "webpack": "^2.2.0"
   },
   "engines": {
